@@ -1,6 +1,6 @@
 {
     "name": "x264-linuxarm",
-    "version": "0.155.2705",
+    "version": "0.155.2705.1",
     "description": "npm wrapper for x264 (linuxarm)",
     "os": ["linux"],
     "cpu": ["arm"],
